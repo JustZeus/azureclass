@@ -4,7 +4,12 @@
 </p>
 
 <h3 align="center">Vanilla JavaScript App</h3>
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
+Mi primera Web app estática en Azure! 😁
+ https://blue-mud-096bcdf10.azurestaticapps.net/ 
+ 
+ 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
